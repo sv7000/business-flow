@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChevronRightIcon, CheckCircleIcon, StarIcon } from '@heroicons/react/solid';
+import { ChevronRightIcon, StarIcon } from '@heroicons/react/solid';
 
 const HomePage: React.FC = () => {
   const services = [

@@ -8,7 +8,6 @@ import {
   NewspaperIcon,
   LockClosedIcon,
   MenuIcon,
-  XIcon,
   ChevronLeftIcon,
   ChevronRightIcon,
 } from "@heroicons/react/outline";
